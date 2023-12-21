@@ -1,0 +1,38 @@
+{
+  "house": [
+    {
+      "id": 1,
+      "name": "Griffinwindow",
+      "description": "The third best harry potter house",
+      "image": "link",
+      "characters": [1, 3, 5, 8]
+    },
+    {
+      "id": 2,
+      "name": "Slitherout",
+      "description": "Obviously the best Team",
+      "image": "link",
+      "characters": [12, 23, 11, 5]
+    }
+  ],
+  "wands": [
+    {
+      "id": 1,
+      "wood": "holly",
+      "core": "phoenix tail feather",
+      "length": 11
+    },
+    {
+      "id": 2,
+      "wood": "vine",
+      "core": "dragon heartstring",
+      "length": 10.75
+    },
+    {
+      "id": 3,
+      "wood": "willow",
+      "core": "unicorn tail hair",
+      "length": 14
+    }
+  ]
+}
