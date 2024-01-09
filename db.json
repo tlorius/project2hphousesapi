@@ -19,6 +19,11 @@
       "id": 4,
       "name": "Hufflepuff",
       "image": "https://i.imgur.com/NaiP4DS.png"
+    },
+    {
+      "name": "Custom House 1",
+      "image": "https://i.imgur.com/NaiP4DS.png",
+      "id": 5
     }
   ],
   "wands": [
