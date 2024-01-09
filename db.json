@@ -2,17 +2,23 @@
   "houses": [
     {
       "id": 1,
-      "name": "Griffinwindow",
-      "description": "The third best harry potter house",
-      "image": "link",
-      "characters": [1, 3, 5, 8]
+      "name": "Gryffindor",
+      "image": "https://i.imgur.com/fGIqoaj.png"
     },
     {
       "id": 2,
-      "name": "Slitherout",
-      "description": "Obviously the best Team",
-      "image": "imagelink",
-      "characters": [12, 23, 11, 5]
+      "name": "Slytherin",
+      "image": "https://i.imgur.com/gf7YOJY.png"
+    },
+    {
+      "id": 3,
+      "name": "Ravenclaw",
+      "image": "https://i.imgur.com/CU46bgb.png"
+    },
+    {
+      "id": 4,
+      "name": "Hufflepuff",
+      "image": "https://i.imgur.com/NaiP4DS.png"
     }
   ],
   "wands": [
