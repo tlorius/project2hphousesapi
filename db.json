@@ -22,8 +22,23 @@
     },
     {
       "name": "Custom House 1",
-      "image": "https://i.imgur.com/NaiP4DS.png",
+      "image": "https://imgur.com/wQRRS4L.png",
       "id": 5
+    },
+    {
+      "name": "Custom House 2",
+      "image": "https://imgur.com/wQRRS4L.png",
+      "id": 6
+    },
+    {
+      "name": "Slytherout",
+      "image": "https://i.imgur.com/gf7YOJY.png",
+      "id": 7
+    },
+    {
+      "name": "Custom House 4",
+      "image": "https://imgur.com/wQRRS4L.png",
+      "id": 8
     }
   ],
   "wands": [
